@@ -27,7 +27,7 @@ scheme.code = 'SC';
 scheme.ncenters = 100;
 
 %%% external libary
-addpath('LibMatlab\SPAMS\build');
+addpath('LibMatlab\SPAMS');
 addpath('LibMatlab\SVM');
 
 end
