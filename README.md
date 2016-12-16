@@ -20,7 +20,7 @@ If you find any bug or develop some extensions, please feel free to drop me a li
 
 Please cite our paper if you use the code:
 
-X. Yang and Y. Tian. Super Normal Vector for Activity Recognition Using Depth Sequences. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014. [[PDF](http://yangxd.org/publications/papers/SNV.pdf)]
+X. Yang and Y. Tian. Super Normal Vector for Activity Recognition Using Depth Sequences. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014. [[PDF](http://xiaodongyang.org/publications/papers/cvpr14.pdf)]
 
 
 ### License Conditions
